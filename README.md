@@ -1,1 +1,1 @@
-# our_project shizuka
+# our_project shizuka & nobita
