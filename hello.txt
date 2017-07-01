@@ -1,2 +1,5 @@
 NOBITA & SHIZUKA Hello GitHub
+
+こんにちは
+Hello!
 Selamat malam!
